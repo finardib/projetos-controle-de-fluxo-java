@@ -1,18 +1,31 @@
-## Getting Started
+# Projetos de Controle de Fluxo em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta pasta contém uma série de projetos para estudo de controle de fluxo em Java, abordando estruturas condicionais, estruturas de repetição e estruturas de exceções.
 
-## Folder Structure
+## Objetivos dos Projetos
 
-The workspace contains two folders by default, where:
+Os projetos têm como objetivo fornecer prática e compreensão dos seguintes tópicos:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Estruturas Condicionais:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Uso do `if-else` para tomada de decisão com base em condições.
+- Utilização do `switch-case` para seleção entre várias opções.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Estruturas de Repetição:
 
-## Dependency Management
+- Utilização do `for` para iterar sobre uma sequência de elementos.
+- Utilização do `while` para repetir uma ação enquanto uma condição é verdadeira.
+- Utilização do `do-while` para repetir uma ação pelo menos uma vez e então verificar a condição.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Estruturas de Exceções:
+
+- Utilização do bloco `try-catch-finally` para tratamento de exceções.
+- Lançamento de exceções utilizando `throw`.
+
+## Projetos Disponíveis
+
+1. **Projeto 1: Caixa Eletrônico**
+2. **Projeto 2: Planos de Operadora**
+3. **Projeto 3: Resultado Escolar (Aprovado X Recuperação)**
+4. **Projeto 4: Sistema de Medida**
+  
